@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @angelortjimz
 - 👀 I’m interested in Computer Science, Digital Audio Processing and Sound Engineering
-- 🌱 I’m currently learning Computer Science and Web Development
+- 🌱 I’m currently learning Artificial Intelligence and Big Data
 - 💞️ I’m looking to collaborate on projects with people from around the globe
 - 📫 How to reach me: angelortjimz@gmail.com
 - 😄 Pronouns: He/Him
